@@ -1,5 +1,5 @@
 {
-    "name": "niepsuj/answers-registru",
+    "name": "niepsuj/answers-registry",
     "type": "library",
     "require":{
         "php": ">=5.4"
